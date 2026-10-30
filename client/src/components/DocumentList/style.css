@@ -1,0 +1,3 @@
+.doc-state.pendente{color:#9a6a00}
+.doc-state.confirmado{color:var(--pos)}
+.doc-state.falhou{color:var(--neg)}

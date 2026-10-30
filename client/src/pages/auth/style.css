@@ -1,0 +1,2 @@
+.auth-page{display:grid;place-items:center;min-height:100vh;padding:1rem}
+.auth-page .card{display:flex;flex-direction:column;gap:.7rem;width:min(400px,100%)}
